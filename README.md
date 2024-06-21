@@ -19,7 +19,7 @@ Soy un desarrollador apasionado de frontend y backend basado en España. Mi expe
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Visual Basic.NET](https://img.shields.io/badge/-VB.NET-357EDD?style=for-the-badge&logo=visual-basic&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF552E?style=for-the-badge&logo=laravel&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-4A90E2?style=for-the-badge&logo=sequelize&logoColor=white)
