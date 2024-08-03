@@ -1,35 +1,30 @@
-# Hi 👋, I'm Manuel Garcia
+# ¡Hola! 👋, Soy Manuel García
 
-## 🚀 Sobre mí
-
-Soy un desarrollador apasionado de frontend y backend basado en España. Mi experiencia abarca desde el desarrollo de interfaces de usuario interactivas hasta la creación de aplicaciones web escalables y eficientes. Estoy actualmente aprendiendo y aplicando mis conocimientos en Ktor, Laravel, Angular y Node.js.
-
-## 🌱 Habilidades
-
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, Angular
-- **Backend**: PHP, Node.js, C#, Visual Basic.NET, Laravel, Java, Sequelize
-- **Bases de Datos**: MySQL
-- **Herramientas**: Git
+## 🚀 Acerca de mí
+Desarrollador apasionado de frontend y backend basado en España. Mi experiencia abarca desde el desarrollo de interfaces de usuario interactivas hasta la creación de aplicaciones web escalables y eficientes. Actualmente, estoy profundizando mis conocimientos en Vue.JS, Laravel, NestJS y Prisma.
 
 ## 🛠️ Tecnologías
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952BC?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Visual Basic.NET](https://img.shields.io/badge/-VB.NET-357EDD?style=for-the-badge&logo=visual-basic&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.JS](https://img.shields.io/badge/-Vue-JS-4FC09E?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF552E?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-4A90E2?style=for-the-badge&logo=sequelize&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007ACC?style=for-the-badge&logo=java&logoColor=white)
 ![Ktor](https://img.shields.io/badge/-Ktor-000000?style=for-the-badge&logo=ktor&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C4EF5?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-## 🌍 Conectarse conmigo
 
+## 🌍 Conéctate conmigo
 Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme.
 
-Correo: manugdesigner@gmail.com
+- Correo: manugdesigner@gmail.com
+
