@@ -10,7 +10,7 @@ Desarrollador apasionado de frontend y backend basado en España. Mi experiencia
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952BC?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.JS](https://img.shields.io/badge/Proyectos%20con-Vue.js-4FC09E?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue.JS](https://img.shields.io/badge/-Vue.js-4FC09E?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF552E?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-4A90E2?style=for-the-badge&logo=sequelize&logoColor=white)
