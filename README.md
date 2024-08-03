@@ -22,6 +22,9 @@ Desarrollador apasionado de frontend y backend basado en España. Mi experiencia
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C4EF5?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
+## Estadisticas generales
+
+[![Manuel Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgarciad34)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌍 Conéctate conmigo
 Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme.
