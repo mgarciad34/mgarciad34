@@ -1,7 +1,7 @@
 # ¡Hola! 👋, Soy Manuel García
 
 ## 🚀 Acerca de mí
-Desarrollador apasionado de frontend y backend basado en España. Mi experiencia abarca desde el desarrollo de interfaces de usuario interactivas hasta la creación de aplicaciones web escalables y eficientes. Actualmente, estoy profundizando mis conocimientos en Vue.JS, Laravel, NestJS y Prisma.
+Desarrollador apasionado de frontend y backend basado en España. Mi experiencia abarca desde el desarrollo de interfaces de usuario interactivas hasta la creación de aplicaciones web escalables y eficientes. Actualmente, estoy profundizando mis conocimientos en Vue.JS, NestJS y TypeORM.
 
 ## 🛠️ Tecnologías
 
