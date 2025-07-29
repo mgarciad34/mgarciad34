@@ -17,6 +17,7 @@ Desarrollador apasionado de frontend y backend basado en España. Mi experiencia
 ![Java](https://img.shields.io/badge/-Java-007ACC?style=for-the-badge&logo=java&logoColor=white)
 ![Ktor](https://img.shields.io/badge/-Ktor-000000?style=for-the-badge&logo=ktor&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C4EF5?style=for-the-badge&logo=visual-studio&logoColor=white)
